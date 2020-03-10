@@ -1,0 +1,30 @@
+h1{
+	color : #0000000;
+	/*Red Green Blue*/
+	border-color: red;
+	border-width: 5px;
+	border-style: solid;
+}
+}
+h3{
+	color : rgb(0,254,0);
+	/*Red Green Blue*/
+	border: 5px solid red;
+}
+
+/*RGBA , 'A' stands for alpah, it makes text Transparent.*/
+h2{
+	color: rgba(254,35,55,0.7);
+	border: 5px solid red;
+}
+body{
+	background: url(10-iguassu_falls_oana_dragan.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+div{
+	background: rgb(120,33,0);
+}
+p{
+	color: rgb(0,55,11);
+}

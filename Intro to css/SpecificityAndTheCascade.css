@@ -1,0 +1,15 @@
+body{
+	background-image: url(5-grand_canyon_attit_patel_final.jpg);
+}
+ul{
+	color: rgb(233,11,22);
+}
+p{
+	color: rgb(200,20,203);
+}
+.highlight{
+	color: orange;
+}
+#special{
+	color: purple;
+}
