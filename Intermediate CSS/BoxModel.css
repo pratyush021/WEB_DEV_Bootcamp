@@ -1,6 +1,10 @@
-h1{
+p {
 	border: 2px solid blue;
-}
-h2 {
-	border: 3px solid blue;
+	/*width: 350px;*/
+	width: 40%;
+	height: 5%;
+	/*padding: 2%;*/
+	padding-left: 5%;
+	margin:20px 30px 12px 30px;
+	/*Top Right Bottom Left*/
 }
